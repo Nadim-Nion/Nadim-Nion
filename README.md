@@ -34,5 +34,6 @@ Skills:  HTML / CSS / Python / C / Java
 ![Profile views](https://gpvc.arturio.dev/Nadim-Nion)  
 
 <footer>
-  <p> Thanks for going through my Portfolio. All rights reserved by Nadim Mahmud Nion @2022
+  <p> Thanks for going through my Portfolio. </p>
+  <p> Copyright @2022 All rights reserved by Nadim Mahmud Nion </p>
 </footer>
