@@ -28,11 +28,6 @@ Skills: JS / Bootstrap / Tailwind CSS / HTML5 / CSS3 / Python / C
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadim-nion" alt="nadim-nion" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nionhunter" target="blank"><img src="https://img.shields.io/twitter/follow/nionhunter?logo=twitter&style=for-the-badge" alt="nionhunter" /></a> </p>
-
-- 💬 Ask me about **Script**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nionhunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nionhunter" height="30" width="40" /></a>
 </p>
