@@ -5,9 +5,13 @@
 #### Front-end Web Developer
 
 
-It has been my pleasure to learn Frontend Development since January 2022. My next goal is to learn about backends and servers after acquiring skills in this field. My goal is to become a MERN Stack Web Developer. I am already familiar with HTML5, CSS3, Bootstrap, Tailwind CSS, and Vanilla JavaScript. With these technologies, I've made a lot of projects.
+This is Nadim Mahmud Nion. I have recently concluded my graduation in the department of Computer Science and Engineering (CSE) from Daffodil International University. It has been my pleasure to learn Frontend Development since January 2022. My next goal is to learn about backends and servers after acquiring skills in this field. My goal is to become a MERN Stack Web Developer. I am already familiar with HTML5, CSS3, Bootstrap, Tailwind CSS, and Vanilla JavaScript. With these technologies, I've made a lot of projects.
 
 Skills: JS / Bootstrap / Tailwind CSS / HTML5 / CSS3 / Python / C
+
+
+<img align="center" alt="coding gif" width="900" src="https://www.lambdatest.com/resources/images/news24.gif">
+
 
 - 🌱 I’m currently learning MERN Stack Web Development 
 - 👯 I’m looking to collaborate on GitHub 
