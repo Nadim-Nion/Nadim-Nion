@@ -7,7 +7,7 @@
 
 This is Nadim Mahmud Nion. I have recently concluded my graduation in the Department of Computer Science and Engineering (CSE) from Daffodil International University. It has been my pleasure to learn Frontend Development since January 2022. After acquiring skills in this field, my next goal is to learn about backends and servers. My goal is to become a MERN Stack Web Developer. I am familiar with HTML5, CSS3, Bootstrap, Tailwind CSS, Vanilla JavaScript and React.js. With these technologies, I've made a lot of projects.
 
-Skills: React.js / JS / Bootstrap / Tailwind CSS / HTML5 / CSS3 / Python / C
+**Skills**: React.js / JS / Bootstrap / Tailwind CSS / HTML5 / CSS3 / Python / C
 
 
 <img align="center" alt="coding gif" width="900" src="https://www.lambdatest.com/resources/images/news24.gif">
