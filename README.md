@@ -44,7 +44,7 @@ Skills: React.js / JS / Bootstrap / Tailwind CSS / HTML5 / CSS3 / Python / C
 | **University**     | Daffodil International University (DIU)|
 | **Result (CGPA)**  | 3.59 / 4.00                              |
 | **Session**        | Jan 2018 - March 2022                   |
-| **Project / Thesis** | Heart Disease Prediction using Machine Learning |
+| **Project / Thesis** | Heart Disease Prediction Using Machine Learning |
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadim-nion&show_icons=true&locale=en&layout=compact" alt="nadim-nion" /></p>
