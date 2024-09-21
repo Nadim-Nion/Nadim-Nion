@@ -59,7 +59,7 @@ This is Nadim Mahmud Nion. I have recently concluded my graduation in the Depart
   </a>
   
   <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/2/2b/JSON_Web_Token_logo.svg](https://w7.pngwing.com/pngs/413/267/png-transparent-jwt-io-json-web-token-hd-logo.png)" alt="jwt" width="40" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/413/267/png-transparent-jwt-io-json-web-token-hd-logo.png" alt="jwt" width="40" height="40"/>
 </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
