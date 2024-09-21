@@ -33,7 +33,7 @@ This is Nadim Mahmud Nion. I have recently concluded my graduation in the Depart
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadim-nion" alt="nadim-nion" /></a> </p>
 
-<h3 align="left">Technologies and Tools: </h3>
+<h3 align="left">***Technologies and Tools:*** </h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/>
