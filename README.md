@@ -79,7 +79,7 @@ This is Nadim Mahmud Nion. I have recently concluded my graduation in the Depart
   </a>
   
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8D-IfTA58NONTORVfigb72pKqp8hHiEm7SA&s" alt="vercel" width="40" height="40"/>
+    <img src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="vercel" width="40" height="40"/>
   </a>
   
   <a href="https://surge.sh/" target="_blank" rel="noreferrer">
