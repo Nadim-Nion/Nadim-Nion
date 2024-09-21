@@ -71,7 +71,7 @@ This is Nadim Mahmud Nion. I have recently concluded my graduation in the Depart
   </a>
   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/393/49/png-transparent-css-logo-thumbnail.png" alt="css3" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzdOPGrhHK13DvB6p7XR8Qlw_LOfMbRuK5Bg&s" alt="css3" width="40" height="40"/>
   </a>
   
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
