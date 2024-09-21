@@ -59,8 +59,8 @@ This is Nadim Mahmud Nion. I have recently concluded my graduation in the Depart
   </a>
   
   <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/json-web-tokens-1.svg" alt="jwt" width="40" height="40"/>
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/jsonwebtoken/jsonwebtoken-icon.svg" alt="jwt" width="40" height="40"/>
+</a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="javascript" width="40" height="40"/>
