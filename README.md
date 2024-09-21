@@ -66,12 +66,12 @@ This is Nadim Mahmud Nion. I have recently concluded my graduation in the Depart
     <img src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png" alt="javascript" width="40" height="40"/>
   </a>
   
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html5" width="40" height="40"/>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="html5" width="40" height="40"/>
   </a>
   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="css3" width="40" height="40"/>
+    <img src="https://w7.pngwing.com/pngs/393/49/png-transparent-css-logo-thumbnail.png" alt="css3" width="40" height="40"/>
   </a>
   
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
