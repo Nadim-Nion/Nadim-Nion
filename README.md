@@ -21,10 +21,7 @@ I am skilled in React, Tailwind CSS, Daisy UI, Node.js, Express.js, MongoDB, Str
 9. 🔑 JSON Web Token
 
 
-
-
-
-<img align="center" alt="coding gif" width="900" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="center" alt="coding gif" width="900" src="[https://www.lambdatest.com/resources/images/news24.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s)">
 
 ### **About Me**
 - 🌱 I’m currently learning MERN Stack Web Development 
