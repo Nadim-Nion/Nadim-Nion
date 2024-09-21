@@ -99,7 +99,7 @@ This is Nadim Mahmud Nion. I have recently concluded my graduation in the Depart
   </a>
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png" alt="figma" width="40" height="40"/>
+    <img src="https://w7.pngwing.com/pngs/684/413/png-transparent-figma-logo-thumbnail-tech-companies-thumbnail.png" alt="figma" width="40" height="40"/>
   </a>
 </p>
 
