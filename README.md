@@ -38,8 +38,8 @@ This is Nadim Mahmud Nion. I have recently concluded my graduation in the Depart
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="40" height="40"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="40" height="40"/>
+</a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
   </a>
