@@ -43,7 +43,7 @@ This is Nadim Mahmud Nion. I have recently concluded my graduation in the Depart
 </a>
 
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="80" height="40"/>
 </a>
   
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
