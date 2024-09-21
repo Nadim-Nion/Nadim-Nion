@@ -24,13 +24,13 @@ This is Nadim Mahmud Nion. I recently graduated from the Department of Computer 
 
 <img align="center" alt="coding gif" width="900" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-
+### **About Me**
 - 🌱 I’m currently learning MERN Stack Web Development 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: Facebook, Instagram or LinkedIn 
 - 😄 Pronouns: He / Him 
-- ⚡ Fun fact: I may look introvert but I actually ain't 
+- ⚡ Fun fact: I may look introverted but I ain't 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Nadim-Nion)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nadim-mahmud-nion-0546151a9//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/NadimMahmudNion/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mahmud_nion/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/NionHunter)  
