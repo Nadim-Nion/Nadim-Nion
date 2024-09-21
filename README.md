@@ -21,7 +21,7 @@ I am skilled in React, Tailwind CSS, Daisy UI, Node.js, Express.js, MongoDB, Str
 9. 🔑 JSON Web Token
 
 
-<img align="center" alt="coding gif" width="900" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&s">
+<img align="center" alt="coding gif" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&s">
 
 ### **About Me**
 - 🌱 I’m currently learning MERN Stack Web Development 
