@@ -21,15 +21,21 @@ I am skilled in React, Tailwind CSS, Daisy UI, Node.js, Express.js, MongoDB, Str
 9. 🔑 JSON Web Token
 
 
-<img align="center" alt="coding gif" width="500" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<div style="display: flex; align-items: center;">
+  <div style="margin-right: 20px;">
+   ### **About Me**
+    <ul>
+      <li>🌱 I’m currently learning MERN Stack Web Development</li>
+      <li>👯 I’m looking to collaborate on GitHub</li>
+      <li>💬 Ask me about Web Development</li>
+      <li>📫 How to reach me: Facebook, Instagram, or LinkedIn</li>
+      <li>😄 Pronouns: He / Him</li>
+      <li>⚡ Fun fact: I may look introverted but I ain't</li>
+    </ul>
+  </div>
+  <img align="center" alt="coding gif" width="500" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+</div>
 
-### **About Me**
-- 🌱 I’m currently learning MERN Stack Web Development 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: Facebook, Instagram or LinkedIn 
-- 😄 Pronouns: He / Him 
-- ⚡ Fun fact: I may look introverted but I ain't 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Nadim-Nion)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nadim-mahmud-nion-0546151a9//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/NadimMahmudNion/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mahmud_nion/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/NionHunter)  
