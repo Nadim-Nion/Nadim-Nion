@@ -7,7 +7,17 @@
 
 This is Nadim Mahmud Nion. I have recently concluded my graduation in the Department of Computer Science and Engineering (CSE) from Daffodil International University. It has been my pleasure to learn Frontend Development since January 2022. After acquiring skills in this field, my next goal is to learn about backends and servers. My goal is to become a MERN Stack Web Developer. I am familiar with HTML5, CSS3, Bootstrap, Tailwind CSS, Vanilla JavaScript and React.js. With these technologies, I've made a lot of projects.
 
-**Skills**: React.js ⚛️ / Tailwind CSS 🌊 / Daisy UI 🌼 / Express.js 📦 / Node.js 🟢 / MongoDB 🍃 / Stripe 💳 / Firebase 🔥 / JSON Web Token 🛡️
+**Skills**: 
+- 🚀 React.js 
+- 🎨 Tailwind CSS 
+- 🌼 Daisy UI 
+- 🌐 Express.js 
+- 🟢 Node.js 
+- 📦 MongoDB 
+- 💳 Stripe 
+- 🔥 Firebase 
+- 🔑 JSON Web Token
+
 
 
 
@@ -33,7 +43,7 @@ This is Nadim Mahmud Nion. I have recently concluded my graduation in the Depart
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadim-nion" alt="nadim-nion" /></a> </p>
 
-<h3 align="left">### **Technologies and Tools:** </h3>
+### **Technologies and Tools:**
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/>
