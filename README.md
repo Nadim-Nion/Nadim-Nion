@@ -63,7 +63,7 @@ This is Nadim Mahmud Nion. I have recently concluded my graduation in the Depart
 </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png" alt="javascript" width="40" height="40"/>
   </a>
   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
