@@ -64,8 +64,6 @@ I am skilled in React, Tailwind CSS, Daisy UI, Node.js, Express.js, MongoDB, Str
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadim-nion&" alt="nadim-nion" /></p>
 
-<p align="left">
 
-
-### Conclusion 
+### **Conclusion** 
 I appreciate your interest in my GitHub profile. Please let me know if you have any suggestions. Unless otherwise indicated, all rights belong to ©Nadim Mahmud Nion, 2023.
