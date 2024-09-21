@@ -5,18 +5,19 @@
 #### Front-end Web Developer
 
 
-This is Nadim Mahmud Nion. I have recently concluded my graduation in the Department of Computer Science and Engineering (CSE) from Daffodil International University. It has been my pleasure to learn Frontend Development since January 2022. After acquiring skills in this field, my next goal is to learn about backends and servers. My goal is to become a MERN Stack Web Developer. I am familiar with HTML5, CSS3, Bootstrap, Tailwind CSS, Vanilla JavaScript and React.js. With these technologies, I've made a lot of projects.
+This is Nadim Mahmud Nion. I recently graduated from the Department of Computer Science and Engineering (CSE) from Daffodil International University. It has been my pleasure to learn Frontend Development since January 2022. After acquiring skills in this field, my next goal is to know about backends and servers. My goal is to become a MERN Stack Web Developer. I am familiar with HTML5, CSS3, Bootstrap, Tailwind CSS, Vanilla JavaScript and React.js. With these technologies, I've made a lot of projects.
 
 ### **Skills**: 
-- 🚀 React.js 
-- 🎨 Tailwind CSS 
-- 🌼 Daisy UI 
-- 🌐 Express.js 
-- 🟢 Node.js 
-- 📦 MongoDB 
-- 💳 Stripe 
-- 🔥 Firebase 
-- 🔑 JSON Web Token
+1. 🚀 React.js 
+2. 🎨 Tailwind CSS 
+3. 🌼 Daisy UI 
+4. 🌐 Express.js 
+5. 🟢 Node.js 
+6. 📦 MongoDB 
+7. 💳 Stripe 
+8. 🔥 Firebase 
+9. 🔑 JSON Web Token
+
 
 
 
@@ -137,4 +138,4 @@ This is Nadim Mahmud Nion. I have recently concluded my graduation in the Depart
 
 
 ### Conclusion 
-Your interest in my GitHub profile is greatly appreciated. Please let me know if you have any suggestions. Unless otherwise indicated, all rights belong to ©Nadim Mahmud Nion, 2023.
+I appreciate your interest in my GitHub profile. Please let me know if you have any suggestions. Unless otherwise indicated, all rights belong to ©Nadim Mahmud Nion, 2023.
