@@ -46,7 +46,7 @@ I am skilled in React, Tailwind CSS, Daisy UI, Node.js, Express.js, MongoDB, Str
 
 ### **Educational Background**
 
-| Field Name          | Details                                 |
+| Attribute          | Details                                 |
 |--------------------|-----------------------------------------|
 | **Degree**         | Bachelor of Science (BSc)              |
 | **University**     | Daffodil International University (DIU)|
