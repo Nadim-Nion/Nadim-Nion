@@ -58,6 +58,16 @@ I am skilled in React, Tailwind CSS, Daisy UI, Node.js, Express.js, MongoDB, Str
 | **Project / Thesis** | Heart Disease Prediction Using Machine Learning |
 
 
+### **Job Experience**  
+
+| **Company**       | **Role**                 | **Duration**       | **Technologies**                                 |
+|-------------------|--------------------------|--------------------|--------------------------------------------------|
+| **Cotton Group****      | Front-End Developer Intern       | December 2024 - April, 2025 | React.js, Tailwind CSS, React Router, GitHub       |
+| **Backbencher Studio****       | Junior Back-End Developer| October 2025 - Present | Node.js, Express.js                |
+
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadim-nion&show_icons=true&locale=en&layout=compact" alt="nadim-nion" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadim-nion&show_icons=true&locale=en" alt="nadim-nion" /></p>
