@@ -9,16 +9,69 @@ My name is Nadim Mahmud Nion, and I recently graduated from the Department of Co
 
 I am skilled in React, Tailwind CSS, Daisy UI, Node.js, Express.js, MongoDB, Stripe, Firebase, and JSON Web Token (JWT). With these technologies, I've completed numerous projects.
 
-### **Skills** 
-1. 🚀 React.js 
-2. 🎨 Tailwind CSS 
-3. 🌼 Daisy UI 
-4. 🌐 Express.js 
-5. 🟢 Node.js 
-6. 📦 MongoDB 
-7. 💳 Stripe 
-8. 🔥 Firebase 
-9. 🔑 JSON Web Token
+### **Skills**
+
+**Languages:**
+
+- 📝 TypeScript
+
+- ⚡ JavaScript
+
+- 🔧 C
+
+- 🐍 Python
+
+**Frontend:**
+
+- ⚛️ React.js
+
+- 🔄 Redux Toolkit
+
+- 🌐 RTK Query
+
+- 🔗 React Router
+
+- 🎨 Tailwind CSS
+
+- 🌸 Daisy UI
+
+- 🌿 ShadCN
+
+- 🔲 Ant Design
+
+**Backend:**
+
+- 🟢 Node.js
+
+- 📡 Express.js
+
+- 🔑 JSON Web Token (JWT)
+
+**Database:**
+
+- 🗃️ MongoDB
+
+- 🔗 Mongoose
+
+**Tools:**
+
+- 📦 NPM
+
+- 🌐 Vercel
+
+- 🌍 Netlify
+
+- 🚀 Surge
+
+- 🛠️ Git
+
+- 🧑‍💻 GitHub
+
+- 🕵️‍♂️ Chrome Dev Tools
+
+- 🖥️ VS Code
+
+- 🎨 Figma
 
 <img align="center" alt="coding gif" width="500" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
