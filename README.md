@@ -70,7 +70,7 @@ I am skilled in React, Redux Toolkit, RTK Query, Tailwind CSS, Shadcn, Ant Desig
 | **Company**       | **Role**                 | **Duration**       | **Technologies**                                 |
 |-------------------|--------------------------|--------------------|--------------------------------------------------|
 | **Cotton Group**      | Front-End Developer Intern       | December 2024 - April, 2025 | React.js, Tailwind CSS, React Router, GitHub       |
-| **Backbencher Studio**       | Junior Back-End Developer| October 2025 - Present | Node.js, Express.js                |
+| **Backbencher Studio**       | Junior Back-End Developer| October 2025 - Present | Node.js, NestJS, PostgreSQL, Prisma, Insomnia                |
 
 
 ### **Conclusion** 
