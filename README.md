@@ -1,4 +1,5 @@
 ![Front-end Web Developer](https://pbs.twimg.com/profile_banners/1244919777291669506/1666548241/1080x360)
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/819169f1-ed2d-49d0-8807-4a0ed1dc4942" />
 
 
 ### Hi there 👋, I am Nadim Mahmud Nion
