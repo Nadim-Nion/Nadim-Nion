@@ -1,4 +1,3 @@
-![Front-end Web Developer](https://pbs.twimg.com/profile_banners/1244919777291669506/1666548241/1080x360)
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/819169f1-ed2d-49d0-8807-4a0ed1dc4942" />
 
 
@@ -8,7 +7,7 @@
 
 My name is Nadim Mahmud Nion, and I recently graduated from the Department of Computer Science and Engineering (CSE) at Daffodil International University. It has been a pleasure to learn about Frontend Development since January 2022. After acquiring skills in this field, my next goal is to delve into backends and servers. I aspire to become a MERN Stack Web Developer.
 
-I am skilled in React, Tailwind CSS, Daisy UI, Node.js, Express.js, MongoDB, Stripe, Firebase, and JSON Web Token (JWT). With these technologies, I've completed numerous projects.
+I am skilled in React, Redux Toolkit, RTK Query, Tailwind CSS, Shadcn, Ant Design Daisy UI, Node.js, NestJS, Express.js, PostgreSQL, Prisma, MongoDB, Mongoose, Stripe, Firebase, and JSON Web Token (JWT), Postman, and Insomnia. With these technologies, I've completed numerous projects.
 
 ### **Skills**  
 
@@ -16,11 +15,11 @@ I am skilled in React, Tailwind CSS, Daisy UI, Node.js, Express.js, MongoDB, Str
 
 **Frontend** 🎨: React.js | Redux Toolkit | RTK Query | React Router | Tailwind CSS | Daisy UI | ShadCN | Ant Design
 
-**Backend** ⚙️: Node.js | Express.js | JSON Web Token (JWT)
+**Backend** ⚙️: Node.js | NestJS | Express.js | JSON Web Token (JWT)
 
-**Database** 🗄️: MongoDB | Mongoose
+**Database** 🗄️: PostgreSQL | Prisma | MongoDB | Mongoose
 
-**Tools** 🛠️: NPM | Vercel | Netlify | Surge | Git | GitHub | Chrome Dev Tools | VS Code | Figma
+**Tools** 🛠️: Postman | Insomnia | NPM | Vercel | Netlify | Surge | Git | GitHub | Chrome Dev Tools | VS Code | Figma
 
 
 
