@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋, I am Nadim Mahmud Nion
-#### Front-End Web Developer
+#### Full Stack Web Developer
 
 
 My name is Nadim Mahmud Nion, and I recently graduated from the Department of Computer Science and Engineering (CSE) at Daffodil International University. It has been a pleasure to learn about Frontend Development since January 2022. After acquiring skills in this field, my next goal is to delve into backends and servers. I aspire to become a MERN Stack Web Developer.
