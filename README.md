@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/819169f1-ed2d-49d0-8807-4a0ed1dc4942" />
+<img width="1983" height="793" alt="Image" src="https://github.com/user-attachments/assets/13e636d4-4b35-47f2-b98e-afed0cb285dd" />
 
 
 ### Hi there 👋, I am Nadim Mahmud Nion
@@ -21,7 +21,7 @@ I am skilled in React, Redux Toolkit, RTK Query, Tailwind CSS, Shadcn, Ant Desig
 
 **Tools** 🛠️: Postman | Insomnia | NPM | Vercel | Netlify | Surge | Git | GitHub | Chrome Dev Tools | VS Code | Figma
 
-<img width="1983" height="793" alt="Image" src="https://github.com/user-attachments/assets/13e636d4-4b35-47f2-b98e-afed0cb285dd" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/a875b118-0ff5-4aa6-aaf0-4f13dcf22022" />
 
 
 ### **About Me**
