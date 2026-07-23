@@ -21,7 +21,7 @@ I am skilled in React, Redux Toolkit, RTK Query, Tailwind CSS, Shadcn, Ant Desig
 
 **Tools** 🛠️: Postman | Insomnia | NPM | Vercel | Netlify | Surge | Git | GitHub | Chrome Dev Tools | VS Code | Figma
 
-![Image](https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif)
+![Image](https://github.com/user-attachments/assets/13e636d4-4b35-47f2-b98e-afed0cb285dd)
 
 
 ### **About Me**
